@@ -46,7 +46,7 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 ## 📌 Featured Projects
 
 ### ⚓ Battleship Game
-<img src="./357402920433852921.gif" alt="Battleship Game" width="100%" style="max-width:700px;">
+<img src="./357402920433852921.gif" alt="Battleship Game" width="100%" style="max-width:500px;">
 A simple Battleship game project created to practice programming logic,
 user input, and game mechanics.
 
