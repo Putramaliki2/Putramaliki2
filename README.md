@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Putra Maliki Ramadhan
 
 🎓 I'm an **IT student** who is currently learning and exploring the
