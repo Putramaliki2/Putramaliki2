@@ -1,0 +1,83 @@
+# 👋 Hi, I'm Putra Maliki Ramadhan
+
+🎓 I'm an **IT student** who is currently learning and exploring the
+world of technology.
+
+🔐 I'm interested in **Cybersecurity**, **Web Development**, and
+**Programming**.\
+🐍 Currently learning **Python** and **Java**, while improving my
+problem-solving and programming fundamentals.
+
+------------------------------------------------------------------------
+
+## 🚀 About Me
+
+-   🎓 Currently studying **Information Technology**
+-   🔐 Interested in **Cybersecurity**
+-   💻 Learning **Python, Java, and Web Development**
+-   🌱 Currently improving my programming fundamentals
+-   🧩 Enjoy working on small projects and learning through practice
+-   🤝 Open to collaborating on beginner-friendly projects
+-   📚 Always trying to learn something new
+
+------------------------------------------------------------------------
+
+## 🛠️ Skills & Technologies
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+------------------------------------------------------------------------
+
+## 📌 Featured Projects
+
+### ⚓ Battleship Game
+
+A simple Battleship game project created to practice programming logic,
+user input, and game mechanics.
+
+### 🎲 Truth or Dare Web App
+
+A web-based Truth or Dare application with multiple rounds, player
+choices, and a simple fairness/recommendation system.
+
+### 🌐 Web Projects
+
+I'm also working on various small web projects to improve my
+understanding of **frontend, backend, and full-stack development**.
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Putramaliki2&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Putramaliki2&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+## 🎯 My Goals
+
+- 🍎 Become an **Apple Developer**
+- 🌐 Become a **Google Developer**
+- 💻 Continue improving my programming skills
+- 🔐 Develop stronger cybersecurity fundamentals
+- 🚀 Build useful projects for my portfolio
+
+------------------------------------------------------------------------
