@@ -58,7 +58,7 @@ choices, and a simple fairness/recommendation system.
 ### 🌐 Web Projects
 <img src="./ezgif-3b7b028d716673ca.gif" alt="Web Projects" width="500">
 I'm also working on various small web projects to improve my
-understanding of **frontend, backend, and full-stack development**.
+understanding of frontend, backend, and full-stack development.
 
 ------------------------------------------------------------------------
 
