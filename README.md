@@ -51,12 +51,12 @@ A simple Battleship game project created to practice programming logic,
 user input, and game mechanics.
 
 ### 🎲 Truth or Dare Web App
-<img src="./Retolee.gif" alt="Truth or Dare Web App" width="100">
+<img src="./Retolee.gif" alt="Truth or Dare Web App" width="500">
 A web-based Truth or Dare application with multiple rounds, player
 choices, and a simple fairness/recommendation system.
 
 ### 🌐 Web Projects
-<img src="./ezgif-3b7b028d716673ca.gif" alt="Web Projects" width="350">
+<img src="./ezgif-3b7b028d716673ca.gif" alt="Web Projects" width="500">
 I'm also working on various small web projects to improve my
 understanding of **frontend, backend, and full-stack development**.
 
