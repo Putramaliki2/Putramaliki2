@@ -46,17 +46,17 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 ## 📌 Featured Projects
 
 ### ⚓ Battleship Game
-<img src="./357402920433852921.gif" alt="Battleship Game" width="300">
+<img src="./357402920433852921.gif" alt="Battleship Game" width="200">
 A simple Battleship game project created to practice programming logic,
 user input, and game mechanics.
 
 ### 🎲 Truth or Dare Web App
-<img src="./Retolee.gif" alt="Truth or Dare Web App" width="300">
+<img src="./Retolee.gif" alt="Truth or Dare Web App" width="100">
 A web-based Truth or Dare application with multiple rounds, player
 choices, and a simple fairness/recommendation system.
 
 ### 🌐 Web Projects
-<img src="./ezgif-3b7b028d716673ca.gif" alt="Web Projects" width="300">
+<img src="./ezgif-3b7b028d716673ca.gif" alt="Web Projects" width="350">
 I'm also working on various small web projects to improve my
 understanding of **frontend, backend, and full-stack development**.
 
