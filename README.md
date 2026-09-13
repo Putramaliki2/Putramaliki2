@@ -13,11 +13,10 @@ world of technology.
 
 ## 🚀 About Me
 
--   🎓 Currently studying **Information Technology**
--   🔐 Interested in **Cybersecurity**
--   💻 Learning **Python, Java, and Web Development**
+-   🎓 **Information Technology**
+-   🔐 Interested in **Cybersecurity** :3
 -   🌱 Currently improving my programming fundamentals
--   🧩 Enjoy working on small projects and learning through practice
+-   🧩 Stress on fkn small projects and learning through practice
 -   🤝 Open to collaborating on beginner-friendly projects
 -   📚 Always trying to learn something new
 
