@@ -7,7 +7,7 @@
 🎓 I'm an **IT student** who is currently learning and exploring the
 world of technology.
 
-🐍 Currently learning ** Cyber Security** stuff and ** web development ** too :)
+🐍 Currently learning **Cyber Security** stuff and **web development** too :)
 
 ------------------------------------------------------------------------
 
