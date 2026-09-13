@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./banner_girl_full_v3.png" alt="Banner" width="100%">
+    <img src="./banner_final_hd.png" alt="Banner" width="100%">
 </p>
 
 # 👋 Hi, My name is Putra Maliki Ramadhan
