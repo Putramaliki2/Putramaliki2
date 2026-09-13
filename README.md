@@ -2,15 +2,12 @@
     <img src="./banner_girl_full_v3.png" alt="Banner" width="100%">
 </p>
 
-# 👋 Hi, I'm Putra Maliki Ramadhan
+# 👋 Hi, My name is Putra Maliki Ramadhan
 
 🎓 I'm an **IT student** who is currently learning and exploring the
 world of technology.
 
-🔐 I'm interested in **Cybersecurity**, **Web Development**, and
-**Programming**.\
-🐍 Currently learning **Python** and **Java**, while improving my
-problem-solving and programming fundamentals.
+🐍 Currently learning ** Cyber Security** stuff and ** web development ** too :)
 
 ------------------------------------------------------------------------
 
