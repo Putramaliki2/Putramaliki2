@@ -59,17 +59,6 @@ choices, and a simple fairness/recommendation system.
 
 I'm also working on various small web projects to improve my
 understanding of **frontend, backend, and full-stack development**.
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Putramaliki2&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Putramaliki2&layout=compact&theme=tokyonight)
-
 ------------------------------------------------------------------------
 
 ## 🎯 My Goals
