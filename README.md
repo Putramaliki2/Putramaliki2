@@ -59,6 +59,7 @@ choices, and a simple fairness/recommendation system.
 
 I'm also working on various small web projects to improve my
 understanding of **frontend, backend, and full-stack development**.
+
 ------------------------------------------------------------------------
 
 ## 🎯 My Goals
